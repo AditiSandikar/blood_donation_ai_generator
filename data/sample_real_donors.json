@@ -1,0 +1,52 @@
+[
+  {
+    "id": "D-101",
+    "name": "Aditi Sandikar",
+    "bloodGroup": "O+",
+    "age": 21,
+    "weight": 54.0,
+    "totalDonations": 3,
+    "responseRate": 95,
+    "city": "Mangalore"
+  },
+  {
+    "id": "D-102",
+    "name": "Ashmith Suvarna",
+    "bloodGroup": "B+",
+    "age": 22,
+    "weight": 68.5,
+    "totalDonations": 4,
+    "responseRate": 90,
+    "city": "Udupi"
+  },
+  {
+    "id": "D-103",
+    "name": "Dhanush Shetty",
+    "bloodGroup": "A+",
+    "age": 21,
+    "weight": 72.0,
+    "totalDonations": 2,
+    "responseRate": 85,
+    "city": "Mangalore"
+  },
+  {
+    "id": "D-104",
+    "name": "Sneha Rao",
+    "bloodGroup": "O-",
+    "age": 24,
+    "weight": 52.0,
+    "totalDonations": 1,
+    "responseRate": 100,
+    "city": "Bangalore"
+  },
+  {
+    "id": "D-105",
+    "name": "Vikram Patil",
+    "bloodGroup": "AB+",
+    "age": 30,
+    "weight": 78.0,
+    "totalDonations": 6,
+    "responseRate": 80,
+    "city": "Manipal"
+  }
+]
